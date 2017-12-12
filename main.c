@@ -1,3 +1,6 @@
+//problem 5.2
+
+
 #include <stdio.h>
 #include <omp.h>
 #include "random.h"
